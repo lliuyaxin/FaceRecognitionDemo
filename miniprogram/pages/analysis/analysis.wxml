@@ -1,0 +1,58 @@
+<image class="image" src="{{image_src}}" mode="widthFix"></image>
+
+
+<view class="controls">
+  <button class="btn-start" hover-class="btn-start-hover" bindtap="UploadImage" >
+    <view class="icon"></view>
+    <text class="text">上传照片</text>
+  </button>
+</view>
+
+
+<view class='text_viwe_size' wx:if="{{gender}}" >
+  <swiper indicator-dots='true' autoplay="true" interval="5000" circular='true'>
+     <swiper-item>
+        <text class="text_size">性别：{{gender}}</text>
+        <text class="text_size">年龄：{{age}}</text>
+        <view class="text_size">
+          <text>表情：</text>
+          <text wx:if="{{expression < 10}}">似笑非笑</text>
+          <text wx:elif="{{expression < 20}}">心旷神怡</text>
+          <text wx:elif="{{expression < 30}}">嫣然一笑</text>
+          <text wx:elif="{{expression < 40}}">莞尔而笑</text>
+          <text wx:elif="{{expression < 50}}">神采奕奕</text>
+          <text wx:elif="{{expression < 60}}">眉开眼笑</text>
+          <text wx:elif="{{expression < 70}}">春风满面</text>
+          <text wx:elif="{{expression < 80}}">喜笑盈腮</text>
+          <text wx:elif="{{expression < 90}}">笑逐颜开</text>
+          <text wx:else>一笑倾城</text>
+        </view>
+        <text class="text_size">颜值：{{beauty}}（0-100）</text>
+
+     </swiper-item>
+     <swiper-item>
+        <view class="text_size">
+          <text >帽子：</text>
+          <text wx:if="{{hat}}">YES</text>
+          <text wx:else>NO</text>
+        </view>
+        <view class="text_size">
+          <text >眼镜：</text>
+          <text wx:if="{{glasses}}">YES</text>
+          <text wx:else>NO</text>
+        </view>
+        <view class="text_size">
+          <text >口罩：</text>
+          <text wx:if="{{mask}}">YES</text>
+          <text wx:else>NO</text>
+        </view>
+     </swiper-item>
+     <swiper-item>
+       <text class="text_size">发长：{{hair_length}}</text>
+       <text class="text_size">刘海：{{hair_bang}}</text>
+       <text class="text_size">发色：{{hair_color}}</text>
+     </swiper-item>
+  </swiper>
+</view>
+
+

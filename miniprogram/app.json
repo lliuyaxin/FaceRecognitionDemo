@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/analysis/analysis",
+    "pages/comparison/comparison",
+    "pages/verification/verification",
+    "pages/creatperson/creatperson",
+    "pages/huotijiance/huotijiance"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "人脸识别",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "selectedColor": "#1296db",
+    "list": [{
+      "pagePath": "pages/analysis/analysis",
+      "text": "人脸属性",
+      "iconPath": "assets/tongxunlu.png",
+      "selectedIconPath": "assets/tongxunlu1.png"
+    },{
+      "pagePath": "pages/comparison/comparison",
+      "text": "人脸对比",
+      "iconPath": "assets/qun.png",
+      "selectedIconPath": "assets/qun1.png"
+    },{
+      "pagePath": "pages/verification/verification",
+      "text": "人脸认证",
+      "iconPath": "assets/shirenrenzheng.png",
+      "selectedIconPath": "assets/shirenrenzheng1.png"     
+    },{
+      "pagePath": "pages/creatperson/creatperson",
+      "text": "信息录入",
+      "iconPath": "assets/tianjiayonghu.png",
+      "selectedIconPath": "assets/tianjiayonghu1.png"
+    },{
+      "pagePath": "pages/huotijiance/huotijiance",
+      "text": "真人检测",
+      "iconPath": "assets/gerenrongyuchenghaohuojiangmingdan.png",
+      "selectedIconPath": "assets/gerenrongyuchenghaohuojiangmingdan1.png"
+
+    }]
+  },
+  "sitemapLocation": "sitemap.json"
+}

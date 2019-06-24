@@ -1,0 +1,27 @@
+<view class='container1'>
+
+  <image class='image' src="{{tempFilePathsA }}" mode="widthFix" /> 
+
+</view>
+
+
+<view class='resulttip'>
+
+<text class='tip'>结果分析</text>
+
+</view>
+
+<view class='result'>
+
+<text class='similarity'>置信度：{{score}}</text>
+
+<text class='similarity'>是否为真人：{{isTure}}</text>
+
+</view>
+
+
+<button class='compare' bindtap="compare" hover-class="btn-start-hover1">
+
+<text class='duibi'>拍照</text>
+
+</button>

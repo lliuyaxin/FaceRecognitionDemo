@@ -1,0 +1,64 @@
+.container1{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background: #F6F6F6;
+  margin-top: 30rpx
+}
+.image{
+  margin-top: 30rpx;
+  margin-left:30rpx;
+  margin-bottom: 30rpx;
+  width:690rpx;
+  height: 450rpx;
+}
+
+
+
+.result{
+  display: flex;
+  flex-direction: column;
+  background: #F6F6F6;
+  margin-left: 30rpx;
+  margin-right: 30rpx;
+  padding-bottom: 30rpx;
+}
+.resulttip{
+  background: rgb(189, 178, 178);
+  margin-top:50rpx;
+  margin-left: 30rpx;
+  margin-right: 30rpx; 
+  padding-top: 12rpx;
+  padding-bottom: 12rpx;
+}
+.tip{
+  font-weight: 600;
+  margin-left: 30rpx;
+  font-size:35rpx;
+}
+
+
+.similarity{
+  margin-top:30rpx;
+  margin-left:30rpx;
+  font-size: 35rpx;
+}
+.compare{
+  margin-left:30rpx;
+  margin-right: 30rpx;
+  margin-top: 150rpx;
+  height: 90rpx; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background:rgba(12, 192, 247, 0.966);
+  text-align: center;
+}
+.duibi{
+  color:white;
+}
+
+.btn-start-hover1{
+  background: rgba(19, 118, 231, 0.9);
+}
