@@ -9,7 +9,7 @@ var synDetectFace = function (url, personId) { //人脸识别API
   const ClientProfile = tencentcloud.common.ClientProfile;
   const HttpProfile = tencentcloud.common.HttpProfile;
 
-  let cred = new Credential("AKIDa5ThuYxSpBvcHluUmjaYTFqQ3BC9agFg", "PekjYEqLtLdnmaEj7NSQErJgxpiXDi1D");
+  let cred = new Credential("******", "******");//腾讯云API密钥的SecretId和SecretKey
   let httpProfile = new HttpProfile();
   httpProfile.endpoint = "iai.tencentcloudapi.com";
   let clientProfile = new ClientProfile();
@@ -42,7 +42,7 @@ var getPersonList = function () { //人脸识别API
   const ClientProfile = tencentcloud.common.ClientProfile;
   const HttpProfile = tencentcloud.common.HttpProfile;
 
-  let cred = new Credential("AKIDa5ThuYxSpBvcHluUmjaYTFqQ3BC9agFg", "PekjYEqLtLdnmaEj7NSQErJgxpiXDi1D");
+  let cred = new Credential("******", "******");//腾讯云API密钥的SecretId和SecretKey
   let httpProfile = new HttpProfile();
   httpProfile.endpoint = "iai.tencentcloudapi.com";
   let clientProfile = new ClientProfile();
