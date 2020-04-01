@@ -4,16 +4,19 @@
 
 &emsp;&emsp;下图是微信小程序的界面展示：
 
-&emsp;&emsp;&emsp;<image src='https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/封面.PNG'  width='200' height='350'>
+
+&emsp;&emsp;<image src='https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/封面.PNG'  width='200' height='350'>
 &emsp;&emsp;&emsp;<image src='https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/人脸属性.PNG'  width='200' height='350' >
 &emsp;&emsp;&emsp;<image src='https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/人脸对比.PNG'  width='200' height='350'>
-&emsp;&emsp;&emsp;<image src='https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/人脸认证.PNG'  width='200' height='350' >
+  
+  
+&emsp;&emsp;<image src='https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/人脸认证.PNG'  width='200' height='350' >
 &emsp;&emsp;&emsp;<image src='https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/信息录入.PNG'  width='200' height='350' >
 &emsp;&emsp;&emsp;<image src='https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/真人检测.jpg'  width='200' height='350'>
   
-&emsp;&emsp;下图为人员信息库：
+&emsp;&emsp;下图是人员信息库：
 
-&emsp;&emsp;&emsp;<image src='https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/人员信息.PNG'  width='600' height='300'>
+&emsp;&emsp;<image src='https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/人员信息.PNG'  width='600' height='300'>
 
 
 
