@@ -6,31 +6,31 @@
 
 &emsp;&emsp;1、封面图
 
-&emsp;&emsp;![image](https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/封面.PNG)
+&emsp;&emsp;<image src='https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/封面.PNG'  width='200' >
 
 &emsp;&emsp;2、人脸属性页面
 
-&emsp;&emsp;![image](https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/人脸属性.PNG)
+&emsp;&emsp;<image src='https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/人脸属性.PNG'  width='200' >
 
 &emsp;&emsp;3、人脸对比页面
 
-&emsp;&emsp;![image](https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/人脸对比.PNG)
+&emsp;&emsp;<image src='https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/人脸对比.PNG'  width='200' >
 
 &emsp;&emsp;4、人脸认证页面
 
-&emsp;&emsp;![image](https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/人脸认证.PNG)
-
+&emsp;&emsp;<image src='https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/人脸认证.PNG'  width='200' >
+  
 &emsp;&emsp;5、信息录入页面
 
-&emsp;&emsp;![image](https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/信息录入.PNG)
+&emsp;&emsp;<image src='https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/信息录入.PNG'  width='200' >
 
 &emsp;&emsp;6、真人检测页面
 
-&emsp;&emsp;![image](https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/真人检测.jpg)
+&emsp;&emsp;<image src='https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/真人检测.jpg'  width='200' >
 
 &emsp;&emsp;7、人员信息库
 
-&emsp;&emsp;![image](https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/人员信息.PNG)
+&emsp;&emsp;<image src='https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/人员信息.PNG'  width='400' >
 
 
 
