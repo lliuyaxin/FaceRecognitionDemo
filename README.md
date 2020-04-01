@@ -26,7 +26,7 @@
 
 &emsp;&emsp;6、真人检测页面
 
-&emsp;&emsp;![image](https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/真人检测.PNG)
+&emsp;&emsp;![image](https://github.com/lliuyaxin/FaceRecognitionDemo/blob/master/images/真人检测.jpg)
 
 &emsp;&emsp;7、人员信息库
 
